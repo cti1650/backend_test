@@ -13,13 +13,14 @@
 
 - Express  
   [cti1650/express_webapi](https://github.com/cti1650/express_webapi)
-
+  
+    API : [https://express-webapi-cti-tl.herokuapp.com/](https://express-webapi-cti-tl.herokuapp.com/)
 
 - fastify  
   [cti1650/fastify_test](https://github.com/cti1650/fastify_test)
   
-    api : [https://fastify-test-cti-tl.herokuapp.com/](https://fastify-test-cti-tl.herokuapp.com/)  
-    docs : [https://fastify-test-cti-tl.herokuapp.com/docs](https://fastify-test-cti-tl.herokuapp.com/docs)
+    API : [https://fastify-test-cti-tl.herokuapp.com/](https://fastify-test-cti-tl.herokuapp.com/)  
+    Docs : [https://fastify-test-cti-tl.herokuapp.com/docs](https://fastify-test-cti-tl.herokuapp.com/docs)
   
 - 今後試したいフレームワーク
 
@@ -32,6 +33,9 @@
 - fastAPI  
   [cti1650/fastAPI_test](https://github.com/cti1650/fastAPI_test)
   
+    API : [https://ues2ls.deta.dev/](https://ues2ls.deta.dev/)  
+    Docs : [https://ues2ls.deta.dev/docs](https://ues2ls.deta.dev/docs)
+  
 - 今後試したいフレームワーク
 
   - Django(ジャンゴ)
@@ -40,6 +44,8 @@
 
 - Rocket  
   [cti1650/rust_rocket_test](https://github.com/cti1650/rust_rocket_test)
+  
+    API : [https://rust-rocket-test-cti-tl.herokuapp.com/](https://rust-rocket-test-cti-tl.herokuapp.com/)
 
 ### 今後試したい言語・フレームワーク
 
