@@ -46,3 +46,5 @@
 
 - [Swagger UI の使い方 - galife](https://garafu.blogspot.com/2020/05/how-to-use-swagger-ui_6.html)
 
+- [API・WebAPIって何？歴史からSOAP, REST, GraphQL, gRPCまで学ぶ - Qiita](https://qiita.com/tsudaryo1715/items/3ebb0c5233e480ee5407)
+
