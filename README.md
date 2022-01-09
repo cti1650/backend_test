@@ -18,6 +18,9 @@
 - fastify  
   [cti1650/fastify_test](https://github.com/cti1650/fastify_test)
   
+    api : [https://fastify-test-cti-tl.herokuapp.com/](https://fastify-test-cti-tl.herokuapp.com/)  
+    docs : [https://fastify-test-cti-tl.herokuapp.com/docs](https://fastify-test-cti-tl.herokuapp.com/docs)
+  
 - 今後試したいフレームワーク
 
   - RestJS
