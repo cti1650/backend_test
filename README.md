@@ -43,3 +43,6 @@
 - [フロントエンドとバックエンドをわけて開発する - Qiita](https://qiita.com/heiwa/items/10d1a74d0b141999220f)
 
 - [APIの仕様は開発フローの最初に決める　「楽楽勤怠」の開発担当がたどり着いたバックエンドとフロントエンドを仲よくさせる方法 - ログミーTech](https://logmi.jp/tech/articles/323306)
+
+- [Swagger UI の使い方 - galife](https://garafu.blogspot.com/2020/05/how-to-use-swagger-ui_6.html)
+
