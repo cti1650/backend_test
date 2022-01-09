@@ -17,6 +17,10 @@
 
 - fastify  
   [cti1650/fastify_test](https://github.com/cti1650/fastify_test)
+  
+- 今後試したいフレームワーク
+
+  - RestJS
 
 ---
 
@@ -24,6 +28,18 @@
 
 - fastAPI  
   [cti1650/fastAPI_test](https://github.com/cti1650/fastAPI_test)
+  
+- 今後試したいフレームワーク
+
+  - Django(ジャンゴ)
+
+### 今後試したい言語・フレームワーク
+
+  - Ruby on Rails
+
+  - Rust
+
+    - Rocket
 
 
 ## 各種サービス
