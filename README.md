@@ -28,3 +28,5 @@
 
 
 ## 参考
+
+- [フロントエンドとバックエンドをわけて開発する - Qiita](https://qiita.com/heiwa/items/10d1a74d0b141999220f)
