@@ -32,6 +32,11 @@
 - 今後試したいフレームワーク
 
   - Django(ジャンゴ)
+   
+### Rust
+
+- Rocket  
+  [cti1650/rust_rocket_test](https://github.com/cti1650/rust_rocket_test)
 
 ### 今後試したい言語・フレームワーク
 
