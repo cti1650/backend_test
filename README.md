@@ -39,6 +39,8 @@
 - 今後試したいフレームワーク
 
   - Django(ジャンゴ)
+
+  - Flask
    
 ### Rust
 
@@ -51,9 +53,7 @@
 
   - Ruby on Rails
 
-  - Rust
-
-    - Rocket
+  - Laravel
 
 
 ## 各種サービス
