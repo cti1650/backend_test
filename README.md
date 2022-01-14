@@ -35,12 +35,15 @@
   
     API : [https://ues2ls.deta.dev/](https://ues2ls.deta.dev/)  
     Docs : [https://ues2ls.deta.dev/docs](https://ues2ls.deta.dev/docs)
+    
+- Flask [[gitpod]](https://gitpod.io/#https://github.com/cti1650/Flask_test)  
+  [cti1650/Flask_test](https://github.com/cti1650/Flask_test)
+  
+    API : [https://flask-test-cti-tl.herokuapp.com/](https://flask-test-cti-tl.herokuapp.com/)  
   
 - 今後試したいフレームワーク
 
   - Django(ジャンゴ)
-
-  - Flask
    
 ### Rust
 
