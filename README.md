@@ -34,6 +34,7 @@
   [cti1650/fastAPI_test](https://github.com/cti1650/fastAPI_test)
   
     API : [https://ues2ls.deta.dev/](https://ues2ls.deta.dev/)  
+          [https://fast-api-test.vercel.app/](https://fast-api-test.vercel.app/)
     Docs : [https://ues2ls.deta.dev/docs](https://ues2ls.deta.dev/docs)
     
 - Flask [[gitpod]](https://gitpod.io/#https://github.com/cti1650/Flask_test)  
