@@ -64,6 +64,8 @@
 
   - Laravel
 
+  - Golang
+
 
 ## 各種サービス
 
