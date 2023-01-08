@@ -94,3 +94,4 @@
 
 - [API・WebAPIって何？歴史からSOAP, REST, GraphQL, gRPCまで学ぶ - Qiita](https://qiita.com/tsudaryo1715/items/3ebb0c5233e480ee5407)
 
+- [REST API開発に特化したWebフレームワークがもたらす生産性の向上 | IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/5415)  
