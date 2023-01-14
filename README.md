@@ -70,6 +70,8 @@
   - Laravel
 
   - Golang
+  
+  - [tokio](https://tokio.rs/)
 
 
 ## 各種サービス
