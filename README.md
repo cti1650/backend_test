@@ -21,6 +21,11 @@
   
     API : [https://fastify-test-cti-tl.herokuapp.com/](https://fastify-test-cti-tl.herokuapp.com/)  
     Docs : [https://fastify-test-cti-tl.herokuapp.com/docs](https://fastify-test-cti-tl.herokuapp.com/docs)
+
+- hono [[gitpod]](https://github.com/cti1650/vercel-hono)  
+  [cti1650/vercel-hono](https://github.com/cti1650/vercel-hono)  
+
+    API : [https://vercel-hono-sigma.vercel.app/api](https://vercel-hono-sigma.vercel.app/api)  
   
 - 今後試したいフレームワーク
 
